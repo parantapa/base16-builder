@@ -1,0 +1,21 @@
+scheme: "Molokai"
+author: "Parantapa Bhattacharya"
+
+base00: "080808" # ----
+base01: "1b1d1e" # ---
+base02: "293739" # --
+base03: "7e8e91" # -
+
+base04: "9fa9a5" # +
+base05: "bebeba" # ++
+base06: "d2d2cd" # +++
+base07: "f8f8f2" # ++++
+
+base08: "f92672" # red
+base09: "fd971f" # orange
+base0A: "e6db74" # yellow
+base0B: "a6e22e" # green
+base0C: "a1efe4" # aqua
+base0D: "66d9ef" # blue
+base0E: "ae81ff" # purple
+base0F: "cc6633" # brown
